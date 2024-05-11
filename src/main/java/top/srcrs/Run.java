@@ -200,7 +200,7 @@ public class Run {
     /**
      * 发送运行结果到微信，通过 server 酱
      *
-     * @param sckey ec2dc371bf524fffaeacee4170ef5674
+     * @param sckey
      * @author srcrs
      * @Time 2020-10-31
      */
